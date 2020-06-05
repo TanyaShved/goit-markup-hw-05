@@ -150,7 +150,7 @@ h1 {
 
 .projects-nav .item:hover .projects-text,
 .projects-nav .item:focus .projects-text {
-  transform: translateX(0);
+  transform: translateY(0);
   opacity: 1;
 }
 
